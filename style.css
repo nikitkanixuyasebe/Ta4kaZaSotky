@@ -1,0 +1,15 @@
+body {
+  background-color: #000;
+  background-image: 
+    url('https://cdn.pixabay.com/photo/2020/04/07/13/54/iphone-5019798_1280.jpg'),
+    url('https://cdn.pixabay.com/photo/2020/04/03/20/43/apple-watch-4996423_1280.jpg'),
+    url('https://cdn.pixabay.com/photo/2020/05/11/11/17/bmw-5154792_1280.jpg'),
+    url('https://cdn.pixabay.com/photo/2020/03/19/19/39/mercedes-4946471_1280.jpg');
+  background-repeat: no-repeat;
+  background-position: top left, top right, bottom left, bottom right;
+  background-size: 150px, 150px, 200px, 200px;
+}
+
+select option {
+  color: black;
+}
